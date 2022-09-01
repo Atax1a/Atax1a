@@ -41,12 +41,6 @@
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Atax1a
-&&style=flat-square" align="center" />
-</div>  
-  
-
 <br/>  
 
 <div align="center">
